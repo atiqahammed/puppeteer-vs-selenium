@@ -1,0 +1,19 @@
+{ 
+    "name": "Sara",
+    "age": 23,
+    "gender": "Female",
+    "google": "test",
+    "searchEngine": ["google", "bing", "yahoo", "ask", "duckduckgo", "aol", "yandex", "wolframalpha"],
+    "webUrl": [
+        "https://www.google.com/",
+        "https://www.bing.com/",
+        "https://www.yahoo.com/",
+        "https://www.ask.com/",
+        "https://duckduckgo.com/?t=hp",
+        "https://search.aol.com/",
+        "https://yandex.com/",
+        "https://www.wolframalpha.com/"
+    ],
+    "headless": true
+
+}
