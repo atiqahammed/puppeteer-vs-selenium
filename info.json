@@ -4,7 +4,7 @@
     "gender": "Female",
     "google": "test",
     "searchEngine": ["google", "bing", "yahoo", "ask", "duckduckgo", "aol", "yandex", "wolframalpha"],
-    "webUrl": [
+    "webUrldd": [
         "https://www.google.com/",
         "https://www.bing.com/",
         "https://www.yahoo.com/",
@@ -13,6 +13,17 @@
         "https://search.aol.com/",
         "https://yandex.com/",
         "https://www.wolframalpha.com/"
+    ],
+    "webSites": ["IIT", "birth registration", "porjoton corporation", "rajuk", "dncc", "dscc", "BD Press Information", "Election Commission"],
+    "webUrl": [
+        "http://www.iit.du.ac.bd/",
+        "http://br.lgd.gov.bd/",
+        "http://www.parjatan.gov.bd/",
+        "http://www.rajukdhaka.gov.bd/rajuk/webHome",
+        "http://www.dncc.gov.bd/",
+        "http://www.dscc.gov.bd/",
+        "http://www.pressinform.gov.bd/",
+        "http://ecs.gov.bd/"
     ],
     "headless": true
 

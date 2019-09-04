@@ -1,0 +1,63 @@
+browser loading time:: 415,409,407,417,399,378,442,375,404,412
+415
+409
+407
+417
+399
+378
+442
+375
+404
+412
+evg brow:: 405.8
+output
+[ [ 7680, 7679 ],
+  [ 3516, 2945 ],
+  [ 8838, 8936 ],
+  [ 4363, 5077 ],
+  [ 8831, 4838 ],
+  [],
+  [],
+  [] ]
+page IIT
+URL:: http://www.iit.du.ac.bd/
+[ 7680, 7679 ]
+7680
+7679
+average response time:: 7679.5
+page birth registration
+URL:: http://br.lgd.gov.bd/
+[ 3516, 2945 ]
+3516
+2945
+average response time:: 3230.5
+page porjoton corporation
+URL:: http://www.parjatan.gov.bd/
+[ 8838, 8936 ]
+8838
+8936
+average response time:: 8887
+page rajuk
+URL:: http://www.rajukdhaka.gov.bd/rajuk/webHome
+[ 4363, 5077 ]
+4363
+5077
+average response time:: 4720
+page dncc
+URL:: http://www.dncc.gov.bd/
+[ 8831, 4838 ]
+8831
+4838
+average response time:: 6834.5
+page dscc
+URL:: http://www.dscc.gov.bd/
+[]
+average response time:: NaN
+page BD Press Information
+URL:: http://www.pressinform.gov.bd/
+[]
+average response time:: NaN
+page Election Commission
+URL:: http://ecs.gov.bd/
+[]
+average response time:: NaN
